@@ -1,5 +1,6 @@
 .checkout {
     justify-content: right;
+    display: flex;
 }
 .container {
     height: 600px;
