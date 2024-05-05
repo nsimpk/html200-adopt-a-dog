@@ -1,6 +1,8 @@
 .checkout {
-    justify-content: right;
-    position: absolute;
+    position: fixed;
+    right: 10rem;
+    height: 2rem;
+    width: 1rem;
 }
 .container {
     height: 600px;
