@@ -1,6 +1,6 @@
 .checkout {
     justify-content: right;
-    display: flex;
+    position: absolute;
 }
 .container {
     height: 600px;
